@@ -13,7 +13,7 @@ You give the AI a direct task or question with no background examples, relying e
 Example:
 “Summarize this article in three bullet points.”
 2. Few-Shot Prompting
-You provide a small number of input-output examples inside the prompt to teach the AI the exact pattern, tone, or style you want. One-shot uses a single example, while multi-shot uses several.
+You provide a small number of input-output examples inside the prompt to teach the AI the exact pattern, tone, or style you want. One-shot uses a single example, while multi-shot uses several
 Example:
 “Here are two examples of friendly email replies. Write a third reply in the same style.”
 3. Chain-of-Thought (CoT) Prompting
